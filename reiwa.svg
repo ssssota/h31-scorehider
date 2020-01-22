@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="563.07607"
-     inkscape:cy="254.1809"
+     inkscape:cx="789.09113"
+     inkscape:cy="546.50898"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -156,14 +156,14 @@
     <text
        id="text2199"
        y="225.37175"
-       x="330.49234"
+       x="332.67673"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Heavy';text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="225.37175"
-         x="330.49234"
+         x="332.67673"
          id="tspan2197"
-         sodipodi:role="line">さわ</tspan></text>
+         sodipodi:role="line">○○</tspan></text>
     <text
        id="text2211"
        y="249.96054"
@@ -177,15 +177,15 @@
          sodipodi:role="line">HEISEI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:1;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f9eded;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="301.18021"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:1;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f9eded;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="297.09467"
        y="249.96054"
        id="text2215"><tspan
          sodipodi:role="line"
          id="tspan2213"
-         x="301.18021"
+         x="297.09467"
          y="249.96054"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';stroke-width:0.26458332;fill:#f9eded;fill-opacity:1;">SAWA</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';fill:#f9eded;fill-opacity:1;stroke-width:0.26458332">xxxxxx</tspan></text>
     <circle
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d61f00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="path2219"
