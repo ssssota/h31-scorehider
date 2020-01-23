@@ -14,7 +14,7 @@
    viewBox="0 0 420 297"
    version="1.1"
    id="svg1574"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="reiwa.svg">
   <defs
      id="defs1568" />
@@ -32,9 +32,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -156,14 +156,14 @@
     <text
        id="text2199"
        y="225.37175"
-       x="332.67673"
+       x="332.8291"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Heavy';text-align:center;text-anchor:middle;stroke-width:0.26458332"
          y="225.37175"
-         x="332.67673"
+         x="332.8291"
          id="tspan2197"
-         sodipodi:role="line">○○</tspan></text>
+         sodipodi:role="line">未来</tspan></text>
     <text
        id="text2211"
        y="249.96054"
@@ -178,14 +178,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;line-height:1;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f9eded;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="297.09467"
+       x="301.96915"
        y="249.96054"
        id="text2215"><tspan
          sodipodi:role="line"
          id="tspan2213"
-         x="297.09467"
+         x="301.96915"
          y="249.96054"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';fill:#f9eded;fill-opacity:1;stroke-width:0.26458332">xxxxxx</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.57777786px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Medium';fill:#f9eded;fill-opacity:1;stroke-width:0.26458332">MIRAI</tspan></text>
     <circle
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d61f00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="path2219"
